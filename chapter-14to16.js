@@ -1,22 +1,22 @@
-//Question 1
+//Answer 1
 //var students = [];
 
-//Question 2
+//Answer 2
 //var students = new Array();
 
-//Question 3
+//Answer 3
 //var fruits = ["apple", "banana", "mango"];
 
-//Question 4
+//Answer 4
 //var numbers = [10, 20, 30, 40];
 
-//Question 5
+//Answer 5
 //var flags = [true, false, true];
 
-//Question 6
+//Answer 6
 //var mixed = ["Ali", 25, true];
 
-//Question 7
+//Answer 7
 // var qualifications = ["SSC", "HSC", "BCS", "BS", "BCOM", "MS", "M. Phil.", "PhD"];
 
 // document.writeln(
@@ -32,7 +32,7 @@
 // );
 
 
-// Question 8
+// Answer 8
 // var names = ['Michael', 'John', 'Tony'];
 // var score = [320, 230, 480];
 // var maxScore = 500;
@@ -48,7 +48,7 @@
 // `);
 
 
-// Question 9
+// Answer 9
 //var colorNames = ['red', 'green', 'orange', 'yellow'];
 
 //var newColor = prompt("Please enter a color:");
@@ -85,13 +85,13 @@
 
 //document.writeln("Updated colors: " + colorNames);
 
-//Question 10
+//Answer 10
 // var studentScore = [320, 230, 480, 120];
 // studentScore.sort();
 
 // document.writeln(studentScore)
 
-//Question 11
+//Answer 11
 // var cities = ['Karachi', 'Lahore', 'Islamabad', 'Quetta', 'Peshawar'];
 // selectedCities = cities.slice(2, 4);
 
@@ -102,13 +102,13 @@
 //     `
 // );
 
-//Question 12
+//Answer 12
 // var arr = ['This', 'is', 'my', 'cat'];
 // var newArray = arr.join(' ');
 
 // document.writeln(newArray);
 
-//Question 13
+//Answer 13
 // var devices = "keyboard,mouse,printer,monitor";
 
 // var arr = devices.split(",");
@@ -119,7 +119,7 @@
 // Out:<br>${arr[3]}`);
 
 
-//Question 14
+//Answer 14
 // var devices = "keyboard,mouse,printer,monitor";
 
 // var arr = devices.split(",");
